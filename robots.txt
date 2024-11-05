@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyovuada.github.io/DxX/sitemap_index.txt
+Sitemap: https://oyovuada.github.io/JrE/sitemap_index.txt
+Sitemap: https://oyovuada.github.io/PZq/sitemap_index.txt
+Sitemap: https://oyovuada.github.io/SrD/sitemap_index.txt
